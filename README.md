@@ -156,7 +156,7 @@ Docker, Kubernetes and Ansible doing the heavy lifting, all stitched together wi
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sampope-8a183b77">
+<a href="https://www.linkedin.com/in/sam-pope-8a183b77">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:hello@overflowingvoid.com">
