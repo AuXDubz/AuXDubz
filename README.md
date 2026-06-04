@@ -129,16 +129,6 @@ Docker, Kubernetes and Ansible doing the heavy lifting, all stitched together wi
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AuXDubz&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
-</div>
-
----
-
 <!-- Contribution snake. Needs the workflow in .github/workflows/snake.yml (see notes). -->
 <div align="center">
 
