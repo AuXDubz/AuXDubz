@@ -22,7 +22,7 @@
 
 I'm a Cloud Infrastructure Engineer working across a global Azure estate, fully remote from Bournemouth. I'm at my best automating the boring bits, trimming cloud bills nobody else wants to look at, and untangling the occasional spaghetti architecture.
 
-The handle is **AuXDubz**, left over from the gaming days. Same energy now goes into Terraform, Kubernetes and a homelab that does considerably more than it strictly needs to.
+The handle is **AuXDubz**, left over from the gaming days. Same energy now goes into Cloud Engineering, Terraform, AI Automation, FinOps and a homelab that does considerably more than it strictly needs to.
 
 > 🤫 Sorry, most of my repos are private, so the stats below run a bit quiet.
 
