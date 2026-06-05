@@ -11,7 +11,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Bournemouth,_UK-Remote-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/Azure-Multi-Region-Estate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Azure-Multi--Region_Estate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
 <img src="https://komarev.com/ghpvc/?username=AuXDubz&style=flat-square&color=blueviolet&label=Profile+views" alt="Profile views" />
 
 </div>
