@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=600&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&width=640&height=55&lines=Cloud+Infrastructure+Engineer+%28Azure%29;FinOps+certified%2C+allergic+to+wasted+spend;Homelabber+and+chronic+self-hoster;Terraform+habit" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&width=640&height=70&lines=Cloud+Infrastructure+Engineer+%28Azure%29;FinOps+certified%2C+allergic+to+wasted+spend;Homelabber+and+chronic+self-hoster;Terraform+habit" alt="What I do" />
 
 <br>
 
