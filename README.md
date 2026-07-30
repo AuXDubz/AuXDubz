@@ -151,7 +151,7 @@ Docker, Kubernetes and Ansible doing the heavy lifting, all stitched together wi
   <img src="https://img.shields.io/badge/hello@overflowingvoid.com-6E56CF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
 </a>
 <a href="https://extrawelcome.co.uk">
-  <img src="https://img.shields.io/badge/PassTheVoid-1A1A2E?style=for-the-badge&logo=ghost&logoColor=white" alt="PassTheVoid" />
+  <img src="https://img.shields.io/badge/ExtraWelcome-1A1A2E?style=for-the-badge&logo=ghost&logoColor=white" alt="ExtraWelcome" />
 </a>
 <a href="https://passthevoid.com">
   <img src="https://img.shields.io/badge/PassTheVoid-1A1A2E?style=for-the-badge&logo=ghost&logoColor=white" alt="PassTheVoid" />
