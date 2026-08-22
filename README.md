@@ -20,7 +20,7 @@
 
 ## 👋 Hi, I'm Sam
 
-I'm a Cloud Infrastructure Engineer working across a global Azure estate, fully remote from Bournemouth. I'm at my best automating the boring bits, trimming cloud bills nobody else wants to look at, and untangling the occasional spaghetti architecture.
+I'm a Cloud Infrastructure Engineer working across a global Azure estate, fully remote -  I'm at my best automating the boring bits, trimming cloud bills nobody else wants to look at, and untangling the occasional spaghetti architecture.
 
 > 🤫 Sorry, most of my repos are private, so the stats below run a bit quiet.
 
