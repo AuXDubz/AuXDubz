@@ -116,8 +116,6 @@ Docker, Kubernetes and Ansible doing the heavy lifting, all stitched together wi
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-kappa-27.vercel.app/api?username=AuXDubz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=midnight-purple" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-kappa-27.vercel.app/api?username=AuXDubz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" />
   <img src="https://github-readme-stats-nine-kappa-27.vercel.app/api?username=AuXDubz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=midnight-purple" alt="Sam's GitHub stats" height="165" />
-</picture>
-<img src="https://github-readme-stats-nine-kappa-27.vercel.app/api/top-langs/?username=AuXDubz&layout=compact&hide_border=true&theme=midnight-purple" alt="Top languages" height="165" />
 
 <br>
 
