@@ -106,22 +106,6 @@ Docker, Kubernetes and Ansible doing the heavy lifting, all stitched together wi
 - 🧰 Tinkering with Maestro MCP tooling and Azure DevOps plan-review workflows
 - 💸 Always hunting the next bit of cloud spend to delete
 
----
-
-## 📊 The Numbers
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-kappa-27.vercel.app/api?username=AuXDubz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=midnight-purple" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-kappa-27.vercel.app/api?username=AuXDubz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" />
-  <img src="https://github-readme-stats-nine-kappa-27.vercel.app/api?username=AuXDubz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=midnight-purple" alt="Sam's GitHub stats" height="165" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=AuXDubz&hide_border=true&theme=midnight-purple" alt="GitHub streak" height="165" />
-
-</div>
 
 ---
 
