@@ -101,7 +101,7 @@ Docker, Kubernetes and Ansible doing the heavy lifting, all stitched together wi
 
 ## 🚀 Currently Working On
 
-- 📜 AI-901 (in progress)
+- 📜 AI-901 
 - 🔀 Migrating from Tailscale sidecars to Tailscale Services
 - 🧰 Tinkering with Maestro MCP tooling and Azure DevOps plan-review workflows
 - 💸 Always hunting the next bit of cloud spend to delete
